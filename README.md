@@ -53,3 +53,16 @@ LGBMClassifier(
 ---
 
 📁 참고 파일: `ml_model.ipynb`
+
+---
+
+## 📚 참고 및 데이터 출처
+
+본 프로젝트는 KAIST에서 제공하는 **K-EmoPhone** 데이터셋을 기반으로 집중도 예측 모델을 구축하였습니다.  
+해당 데이터셋은 스마트폰 및 웨어러블 센서를 통해 수집된 생체 및 행동 데이터를 포함하며, 정량적 감정 분석 및 맥락 기반 개인 상태 추론 연구를 위해 제공되었습니다.
+
+> 📌 출처:  
+> Lee, S., Jang, H., Lee, Y. et al. *K-EmoPhone: A Corpus of Mobile Bio-Signals for Predicting Emotions and Mood in the Wild.*  
+> KAIST, https://emopark.kaist.ac.kr/k-emophone/
+
+모델링 및 feature engineering 과정은 위 논문의 실험 설계와 전처리 방식에서 영감을 받아 재구성되었습니다.
