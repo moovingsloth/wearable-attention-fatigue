@@ -7,9 +7,6 @@
 
 > KAIST, https://emopark.kaist.ac.kr/k-emophone/
 
-모델링 및 feature engineering 과정은 위 논문의 실험 설계와 전처리 방식에서 영감을 받아 재구성되었습니다.
-
-이 Jupyter Notebook은 K-EmoPhone 데이터셋 기반의 `attention` 이진 분류 모델을 개발하는 데 초점을 둡니다. 주요 내용은 다음과 같습니다:
 
 ## 📦 사용 데이터
 - **데이터셋**: K-EmoPhone (attention 라벨 포함)
